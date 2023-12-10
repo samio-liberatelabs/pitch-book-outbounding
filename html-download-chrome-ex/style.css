@@ -1,0 +1,18 @@
+body {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    height: auto;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-start {
+    border: none;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
